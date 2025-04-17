@@ -1,0 +1,12 @@
+[submodule "carbon-credits-game"]
+	path = carbon-credits-game
+	url = git@github.com:AK2000/carbon-credits-game.git
+[submodule "batch-simulator"]
+	path = batch-simulator
+	url = git@github.com:MaximeGonthier/batch-simulator.git
+[submodule "green-ACCESS/green-access"]
+	path = green-ACCESS/green-access
+	url = git@github.com:AK2000/green-access.git
+[submodule "green-ACCESS/green-faas-endpoint"]
+	path = green-ACCESS/green-faas-endpoint
+	url = git@github.com:AK2000/green-faas-endpoint.git
