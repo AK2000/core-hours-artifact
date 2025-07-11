@@ -1,0 +1,159 @@
+QuestionId,Question,Response,Count
+Q46,Do you regularly look at the feedback provided?,Yes,39.0
+Q46,Do you regularly look at the feedback provided?,No,32.0
+Q14,Are you aware of how many node-hours your workflows/jobs consume?,Yes,148.0
+Q14,Are you aware of how many node-hours your workflows/jobs consume?,No,55.0
+Q15,Have you taken steps to reduce the amount of node-hours consumed by a job?,Yes,142.0
+Q15,Have you taken steps to reduce the amount of node-hours consumed by a job?,No,62.0
+Q19,Have you taken steps to reduce the amount of energy a job consumes?,No,132.0
+Q19,Have you taken steps to reduce the amount of energy a job consumes?,Yes,54.0
+Q41,Does any computing facility you use provide feedback on the resource utilization of a job?,No,112.0
+Q41,Does any computing facility you use provide feedback on the resource utilization of a job?,Yes,71.0
+Q22_6,How important were each of the following factors when choosing a computing resource to use? - Software Available,3 (Very Important),80.0
+Q22_6,How important were each of the following factors when choosing a computing resource to use? - Software Available,2,56.0
+Q22_6,How important were each of the following factors when choosing a computing resource to use? - Software Available,1 (Not important),41.0
+Q33_5,How influential were the following factors when selecting which programming language to use? - Prior Experience,3 (Very Important),103.0
+Q33_5,How influential were the following factors when selecting which programming language to use? - Prior Experience,2,56.0
+Q33_5,How influential were the following factors when selecting which programming language to use? - Prior Experience,1 (Not important),19.0
+Finished,Finished,True,169.0
+Finished,Finished,False,147.0
+Q20_1,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Green500 Ranking,No,133.0
+Q20_1,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Green500 Ranking,Yes,36.0
+Q20_1,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Green500 Ranking,Not Applicable,13.0
+Q43,"Approximately how many node hours do you use in a year (across cloud and computing clusters, not including personal desktops/laptops)?",100-500,45.0
+Q43,"Approximately how many node hours do you use in a year (across cloud and computing clusters, not including personal desktops/laptops)?",1000-5000,44.0
+Q43,"Approximately how many node hours do you use in a year (across cloud and computing clusters, not including personal desktops/laptops)?",10000+,43.0
+Q43,"Approximately how many node hours do you use in a year (across cloud and computing clusters, not including personal desktops/laptops)?",500-1000,39.0
+Q43,"Approximately how many node hours do you use in a year (across cloud and computing clusters, not including personal desktops/laptops)?",0-100,25.0
+Q43,"Approximately how many node hours do you use in a year (across cloud and computing clusters, not including personal desktops/laptops)?",5000-10000,22.0
+Q35,Are you aware of the average memory utilization of your job?,Yes,105.0
+Q35,Are you aware of the average memory utilization of your job?,No,79.0
+Q20_2,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - SPEC Server Efficiency Rating Scores,No,162.0
+Q20_2,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - SPEC Server Efficiency Rating Scores,Not Applicable,12.0
+Q20_2,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - SPEC Server Efficiency Rating Scores,Yes,8.0
+Q22_5,How important were each of the following factors when choosing a computing resource to use? - Energy Efficiency,1 (Not important),92.0
+Q22_5,How important were each of the following factors when choosing a computing resource to use? - Energy Efficiency,2,63.0
+Q22_5,How important were each of the following factors when choosing a computing resource to use? - Energy Efficiency,3 (Very Important),25.0
+Q21_3,Are you familiar with the following resources or metrics? - Vendor Fact Sheets,No,127.0
+Q21_3,Are you familiar with the following resources or metrics? - Vendor Fact Sheets,Yes,55.0
+Q16,How concerned are you about completing your jobs within the time/resources you have been allocated?,Very concerned,84.0
+Q16,How concerned are you about completing your jobs within the time/resources you have been allocated?,Mildly concerned,82.0
+Q16,How concerned are you about completing your jobs within the time/resources you have been allocated?,Not concerned,38.0
+Q17,Now only consider your most common application. Are you aware of how much energy a job consumed while running?,No,135.0
+Q17,Now only consider your most common application. Are you aware of how much energy a job consumed while running?,Yes,51.0
+Q34,Are you aware of the CPU utilization of your job?,Yes,101.0
+Q34,Are you aware of the CPU utilization of your job?,No,85.0
+Q22_3,How important were each of the following factors when choosing a computing resource to use? - Hardware Available,3 (Very Important),122.0
+Q22_3,How important were each of the following factors when choosing a computing resource to use? - Hardware Available,2,39.0
+Q22_3,How important were each of the following factors when choosing a computing resource to use? - Hardware Available,1 (Not important),19.0
+Q13,What is the average size of the jobs you run on HPC resources?,2 - 10 nodes,80.0
+Q13,What is the average size of the jobs you run on HPC resources?,1 node,64.0
+Q13,What is the average size of the jobs you run on HPC resources?,10 -100 nodes,31.0
+Q13,What is the average size of the jobs you run on HPC resources?,< 1 node,17.0
+Q13,What is the average size of the jobs you run on HPC resources?,100 - 1000 nodes,9.0
+Q13,What is the average size of the jobs you run on HPC resources?,1000+ nodes,4.0
+Q22_7,How important were each of the following factors when choosing a computing resource to use? - Ease of Use,3 (Very Important),75.0
+Q22_7,How important were each of the following factors when choosing a computing resource to use? - Ease of Use,2,53.0
+Q22_7,How important were each of the following factors when choosing a computing resource to use? - Ease of Use,1 (Not important),50.0
+Q21_4,Are you familiar with the following resources or metrics? - Carbon Intensity of the Site/Location,No,133.0
+Q21_4,Are you familiar with the following resources or metrics? - Carbon Intensity of the Site/Location,Yes,50.0
+Q22_8,How important were each of the following factors when choosing a computing resource to use? - Prior Experience,2,71.0
+Q22_8,How important were each of the following factors when choosing a computing resource to use? - Prior Experience,3 (Very Important),60.0
+Q22_8,How important were each of the following factors when choosing a computing resource to use? - Prior Experience,1 (Not important),47.0
+Q25_1,What percent of your jobs would it be acceptable to delay to each given deadline? - No Delay / ASAP,0-25%,73.0
+Q25_1,What percent of your jobs would it be acceptable to delay to each given deadline? - No Delay / ASAP,75-100%,45.0
+Q25_1,What percent of your jobs would it be acceptable to delay to each given deadline? - No Delay / ASAP,25-50%,28.0
+Q25_1,What percent of your jobs would it be acceptable to delay to each given deadline? - No Delay / ASAP,50-75%,25.0
+Q22_1,How important were each of the following factors when choosing a computing resource to use? - Funding/Directives,3 (Very Important),77.0
+Q22_1,How important were each of the following factors when choosing a computing resource to use? - Funding/Directives,1 (Not important),57.0
+Q22_1,How important were each of the following factors when choosing a computing resource to use? - Funding/Directives,2,45.0
+Q4,"How many different types of nodes do you have access to (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",5-9,95.0
+Q4,"How many different types of nodes do you have access to (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",1-4,78.0
+Q4,"How many different types of nodes do you have access to (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",10-14,38.0
+Q4,"How many different types of nodes do you have access to (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",20+,37.0
+Q4,"How many different types of nodes do you have access to (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",15-19,9.0
+Q40,"Could your jobs be run in a ""malleable"" way, so that the resources/parallelism allocated to the job could be adapted for efficiency or performance?",Maybe,105.0
+Q40,"Could your jobs be run in a ""malleable"" way, so that the resources/parallelism allocated to the job could be adapted for efficiency or performance?",Yes,46.0
+Q40,"Could your jobs be run in a ""malleable"" way, so that the resources/parallelism allocated to the job could be adapted for efficiency or performance?",No,30.0
+Q22_2,How important were each of the following factors when choosing a computing resource to use? - Demand/Queue Times,3 (Very Important),115.0
+Q22_2,How important were each of the following factors when choosing a computing resource to use? - Demand/Queue Times,2,52.0
+Q22_2,How important were each of the following factors when choosing a computing resource to use? - Demand/Queue Times,1 (Not important),12.0
+Q25_3,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Day,0-25%,61.0
+Q25_3,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Day,25-50%,51.0
+Q25_3,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Day,50-75%,32.0
+Q25_3,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Day,75-100%,26.0
+Q22_4,How important were each of the following factors when choosing a computing resource to use? - Hardware Performance,3 (Very Important),83.0
+Q22_4,How important were each of the following factors when choosing a computing resource to use? - Hardware Performance,2,77.0
+Q22_4,How important were each of the following factors when choosing a computing resource to use? - Hardware Performance,1 (Not important),21.0
+Q20_4,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Power Usage Efficiency,No,143.0
+Q20_4,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Power Usage Efficiency,Yes,29.0
+Q20_4,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Power Usage Efficiency,Not Applicable,9.0
+Q33_4,How influential were the following factors when selecting which programming language to use? - Energy Efficiency,1 (Not important),111.0
+Q33_4,How influential were the following factors when selecting which programming language to use? - Energy Efficiency,2,42.0
+Q33_4,How influential were the following factors when selecting which programming language to use? - Energy Efficiency,3 (Very Important),23.0
+Career Stage,Which career stage/role best describes your current position?,Senior Researcher/Engineer,99.0
+Career Stage,Which career stage/role best describes your current position?,Early Career Researcher/Engineer,97.0
+Career Stage,Which career stage/role best describes your current position?,Graduate Student,73.0
+Career Stage,Which career stage/role best describes your current position?,Other,6.0
+Career Stage,Which career stage/role best describes your current position?,Undergraduate Student,2.0
+Q21_6,Are you familiar with the following resources or metrics? - Dynamic Voltage-Frequency Scaling (DVFS),No,125.0
+Q21_6,Are you familiar with the following resources or metrics? - Dynamic Voltage-Frequency Scaling (DVFS),Yes,57.0
+Q12,What is the average duration of jobs you run on HPC resources?,1-6 hours,65.0
+Q12,What is the average duration of jobs you run on HPC resources?,< 1 hour,47.0
+Q12,What is the average duration of jobs you run on HPC resources?,24+ hours,33.0
+Q12,What is the average duration of jobs you run on HPC resources?,6-12 hours,33.0
+Q12,What is the average duration of jobs you run on HPC resources?,12-24 hours,25.0
+Q33_2,How influential were the following factors when selecting which programming language to use? - Compatibility,3 (Very Important),117.0
+Q33_2,How influential were the following factors when selecting which programming language to use? - Compatibility,2,49.0
+Q33_2,How influential were the following factors when selecting which programming language to use? - Compatibility,1 (Not important),13.0
+Q3,"How many different computing systems do you have access to? For instance, a Laptop, Desktop, Campus Cluster, Supercomputer.",2-4,92.0
+Q3,"How many different computing systems do you have access to? For instance, a Laptop, Desktop, Campus Cluster, Supercomputer.",5-7,67.0
+Q3,"How many different computing systems do you have access to? For instance, a Laptop, Desktop, Campus Cluster, Supercomputer.",10+,44.0
+Q3,"How many different computing systems do you have access to? For instance, a Laptop, Desktop, Campus Cluster, Supercomputer.",1-2,31.0
+Q3,"How many different computing systems do you have access to? For instance, a Laptop, Desktop, Campus Cluster, Supercomputer.",8-10,27.0
+Q21_1,Are you familiar with the following resources or metrics? - Green500 Ranking,Yes,94.0
+Q21_1,Are you familiar with the following resources or metrics? - Green500 Ranking,No,90.0
+Q33_3,How influential were the following factors when selecting which programming language to use? - Speed,3 (Very Important),93.0
+Q33_3,How influential were the following factors when selecting which programming language to use? - Speed,2,52.0
+Q33_3,How influential were the following factors when selecting which programming language to use? - Speed,1 (Not important),31.0
+Q25_4,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Week,0-25%,117.0
+Q25_4,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Week,25-50%,20.0
+Q25_4,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Week,75-100%,19.0
+Q25_4,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 1 Week,50-75%,9.0
+Q24,Do you require your jobs to run as-soon-as-possible?,Yes,91.0
+Q24,Do you require your jobs to run as-soon-as-possible?,No,86.0
+Q20_3,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Carbon Intensity of the Site/Location,No,145.0
+Q20_3,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Carbon Intensity of the Site/Location,Yes,27.0
+Q20_3,Are you aware of how the HPC resources you use perform on the following sustainability metrics? (Some metrics may not be applicable to your resources) - Carbon Intensity of the Site/Location,Not Applicable,10.0
+Q49,Are you aware of the GPU utilization of your job?,Yes,60.0
+Q49,Are you aware of the GPU utilization of your job?,No,49.0
+Q6,"How many different types of nodes have you used in the last year (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",1-4,143.0
+Q6,"How many different types of nodes have you used in the last year (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",5-9,58.0
+Q6,"How many different types of nodes have you used in the last year (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",10-14,9.0
+Q6,"How many different types of nodes have you used in the last year (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",20+,4.0
+Q6,"How many different types of nodes have you used in the last year (e.g. Intel Skylake Node, Intel Icelake, or NVidia A100 Node)?",15-19,2.0
+Q21_2,Are you familiar with the following resources or metrics? - SPEC Server Efficiency Rating Scores,No,158.0
+Q21_2,Are you familiar with the following resources or metrics? - SPEC Server Efficiency Rating Scores,Yes,25.0
+Q25_2,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 12 hours,25-50%,64.0
+Q25_2,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 12 hours,0-25%,37.0
+Q25_2,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 12 hours,50-75%,35.0
+Q25_2,What percent of your jobs would it be acceptable to delay to each given deadline? - Within 12 hours,75-100%,30.0
+Q33_1,How influential were the following factors when selecting which programming language to use? - Ease of Use,3 (Very Important),83.0
+Q33_1,How influential were the following factors when selecting which programming language to use? - Ease of Use,2,67.0
+Q33_1,How influential were the following factors when selecting which programming language to use? - Ease of Use,1 (Not important),28.0
+Q21_5,Are you familiar with the following resources or metrics? - Power Usage Efficiency,No,100.0
+Q21_5,Are you familiar with the following resources or metrics? - Power Usage Efficiency,Yes,83.0
+Q47,Have you used the feedback provided to improve the utilization or efficiency of your job?,No,37.0
+Q47,Have you used the feedback provided to improve the utilization or efficiency of your job?,Yes,34.0
+Q54,What region of the world do you live in?,Europe,166.0
+Q54,What region of the world do you live in?,North America,104.0
+Q54,What region of the world do you live in?,Asia,4.0
+Q54,What region of the world do you live in?,Oceania,4.0
+Q48_1,Can you estimate the average CPU utilization? - Utilization,<mean>,68.41414141414141
+Q48_1,Can you estimate the average CPU utilization? - Utilization,<median>,80.0
+Q50_1,Can you estimate the average GPU utilization? - Utilization,<mean>,68.20689655172414
+Q50_1,Can you estimate the average GPU utilization? - Utilization,<median>,80.0
+Progress,Progress,<mean>,67.89873417721519
+Progress,Progress,<median>,100.0
+Q37_4,Can you estimate the average memory utilization? - Utilization,<mean>,49.71287128712871
+Q37_4,Can you estimate the average memory utilization? - Utilization,<median>,50.0
